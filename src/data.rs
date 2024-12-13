@@ -5,72 +5,72 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
     vec![
         Product {
             id: 1,
-            name: "Contoso Catnip's Friend".to_string(),
-            price: 9.99,
-            description: "Watch your feline friend embark on a fishing adventure with Contoso Catnip's Friend toy. Packed with irresistible catnip and dangling fish lure.".to_string(),
+            name: "Apple iPhone 16 Pro".to_string(),
+            price: 1699.99,
+            description: "Strength. Beauty. Titanium. Hello, Apple Intelligence. A18 Pro chip. Camera Control. Buy now. Take a closer look. Get to know iPhone 16 Pro. 48MP Ultra Wide camera. Titanium design. iOS 18. Siri. A18 Pro chip.".to_string(),
             image: "/catnip.jpg".to_string()
         },
         Product {
             id: 2,
-            name: "Salty Sailor's Squeaky Squid".to_string(),
-            price: 6.99,
-            description: "Let your dog set sail with the Salty Sailor's Squeaky Squid. This interactive toy provides hours of fun, featuring multiple squeakers and crinkle tentacles.".to_string(),
+            name: "Apple Watch Series S10".to_string(),
+            price: 599.99,
+            description: "Series 10 is a major milestone for Apple Watch. It features our biggest and most advanced display yet, 1 showing more information onscreen than ever.".to_string(),
             image: "/squid.jpg".to_string()
         },
         Product {
             id: 3,
-            name: "Mermaid's Mice Trio".to_string(),
-            price: 12.99,
-            description: "Entertain your kitty with the Mermaid's Mice Trio. These adorable plush mice are dressed as mermaids and filled with catnip to captivate their curiosity.".to_string(),
+            name: "Apple MacBook M2 Chip".to_string(),
+            price: 1299.99,
+            description: "The M2 is made with TSMC's "Enhanced 5-nanometer technology" N5P process and contains 20 billion transistors, a 25% increase from the M1. Apple claims CPU improvements up to 18% and GPU improvements up to 35% compared to the M1.".to_string(),
             image: "/mermaid.jpg".to_string()
         },
         Product {
             id: 4,
-            name: "Ocean Explorer's Puzzle Ball".to_string(),
-            price: 11.99,
-            description: "Challenge your pet's problem-solving skills with the Ocean Explorer's Puzzle Ball. This interactive toy features hidden compartments and treats, providing mental stimulation and entertainment.".to_string(),
+            name: "Apple Airpods Pro 3rd Gen".to_string(),
+            price: 249.99,
+            description: "Apple Airpods Pro 3rd Gen".to_string(),
             image: "/ocean.jpg".to_string()
         },
         Product {
             id: 5,
-            name: "Pirate Parrot Teaser Wand".to_string(),
-            price: 8.99,
-            description: "Engage your cat in a playful pursuit with the Pirate Parrot Teaser Wand. The colorful feathers and jingling bells mimic the mischievous charm of a pirate's parrot.".to_string(),
+            name: "Apple Mac mini 3rd Gen".to_string(),
+            price: 899.99,
+            description: "Looks small. Lives large. Front and back ports. Shop Mac mini with M4 and M4 Pro chips.".to_string(),
             image: "/pirate.jpg".to_string()
         },
         Product {
             id: 6,
-            name: "Seafarer's Tug Rope".to_string(),
-            price: 14.99,
-            description: "Tug-of-war meets nautical adventure with the Seafarer's Tug Rope. Made from marine-grade rope, it's perfect for interactive play and promoting dental health in dogs.".to_string(),
+            name: "Apple HomePods 2nd Gen".to_string(),
+            price: 699.99,
+            description: "The Apple HomePod is a wireless speaker and Siri virtual assistant that can be used to play music, control smart home devices, and more".to_string(),
             image: "/tug.jpg".to_string()
         },
         Product {
             id: 7,
-            name: "Seashell Snuggle Bed".to_string(),
-            price: 19.99,
-            description: "Give your furry friend a cozy spot to curl up with the Seashell Snuggle Bed. Shaped like a seashell, this plush bed provides comfort and relaxation for cats and small dogs.".to_string(),
+            name: "SONY PS5 Play Station Pro".to_string(),
+            price: 899.99,
+            description: "The Sony PlayStation 5 Pro is a gaming console with improved graphics, performance, and features compared to the standard PlayStation 5".to_string(),
             image: "/bed.jpg".to_string()
         },
         Product {
             id: 8,
-            name: "Nautical Knot Ball".to_string(),
+            name: "Bolt Pro".to_string(),
             price: 7.99,
-            description: "Unleash your dog's inner sailor with the Nautical Knot Ball. Made from sturdy ropes, it's perfect for fetching, tugging, and satisfying their chewing needs.".to_string(),
+            description: "An electric bike, or ebike, is a bicycle equipped with an electric bike motor to assist you when you're pedalling".to_string(),
             image: "/knot.jpg".to_string()
         },
         Product {
             id: 9,
-            name: "Contoso Claw's Crabby Cat Toy".to_string(),
-            price: 3.99,
-            description: "Watch your cat go crazy for Contoso Claw's Crabby Cat Toy. This crinkly and catnip-filled toy will awaken their hunting instincts and provide endless entertainment.".to_string(),
+            name: "Boat Headphones".to_string(),
+            price: 299.99,
+            description: "Headphones are a pair of small loudspeaker drivers worn on or around the head over a user's ears".to_string(),
             image: "/crabby.jpg".to_string()
         },
         Product {
             id: 10,
-            name: "Ahoy Doggy Life Jacket".to_string(),
-            price: 5.99,
-            description: "Ensure your furry friend stays safe during water adventures with the Ahoy Doggy Life Jacket. Designed for dogs, this flotation device offers buoyancy and visibility in style.".to_string(),
+            name: "Apple Airtag ".to_string(),
+            price: 29.99,
+            description: "Apple airtags".to_string(),
             image: "/lifejacket.jpg".to_string()
         }
     ]
