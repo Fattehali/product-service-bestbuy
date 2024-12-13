@@ -5,7 +5,7 @@ pub fn fetch_products(_settings: &Settings) -> Vec<Product> {
     vec![
         Product {
             id: 1,
-            name: "Apple iPhone 16 Pro".to_string(),
+            name: "Apple iPhone 16 Pro ".to_string(),
             price: 1699.99,
             description: "Strength. Beauty. Titanium. Hello, Apple Intelligence. A18 Pro chip. Camera Control. Buy now. Take a closer look. Get to know iPhone 16 Pro. 48MP Ultra Wide camera. Titanium design. iOS 18. Siri. A18 Pro chip.".to_string(),
             image: "/catnip.jpg".to_string()
